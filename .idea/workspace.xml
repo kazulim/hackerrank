@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd97ba42-dfb9-436d-8af1-28510b55fe7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30 Days of Code/NestedLogic.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +27,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunningTimeAndComplexity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunningTimeAndComplexity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NestedLogic.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30 Days of Code/NestedLogic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,6 +87,7 @@
         <option value="$PROJECT_DIR$/30 Days of Code/BstLeveOrderTraversal.java" />
         <option value="$PROJECT_DIR$/30 Days of Code/MoreLinkedList.java" />
         <option value="$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java" />
+        <option value="$PROJECT_DIR$/30 Days of Code/NestedLogic.java" />
       </list>
     </option>
   </component>
@@ -491,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500194748155</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="30 Days of Code - Day 25 : Running Time and Complexityˆ">
+      <created>1500209182391</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1500209182391</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -576,7 +596,8 @@
     <MESSAGE value="30 Days of Code - Day 22 : Binary Search Tress" />
     <MESSAGE value="30 Days of Code - Day 23 : BST - Level Order Traversal" />
     <MESSAGE value="30 Days of Code - Day 24 : More Linked Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code - Day 24 : More Linked Lists" />
+    <MESSAGE value="30 Days of Code - Day 25 : Running Time and Complexityˆ" />
+    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code - Day 25 : Running Time and Complexityˆ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -894,7 +915,17 @@
     <entry file="file://$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Days of Code/NestedLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
