@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd97ba42-dfb9-436d-8af1-28510b55fe7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30 Days of Code/MoreLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MoreLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MoreLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30 Days of Code/MoreLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunningTimeAndComplexity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,6 +74,7 @@
         <option value="$PROJECT_DIR$/30 Days of Code/BinarySearchTrees.java" />
         <option value="$PROJECT_DIR$/30 Days of Code/BstLeveOrderTraversal.java" />
         <option value="$PROJECT_DIR$/30 Days of Code/MoreLinkedList.java" />
+        <option value="$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java" />
       </list>
     </option>
   </component>
@@ -471,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500131434621</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="30 Days of Code - Day 24 : More Linked Lists">
+      <created>1500194748155</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1500194748155</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -555,7 +575,8 @@
     <MESSAGE value="30 Days of Code - Day 21 : Generics" />
     <MESSAGE value="30 Days of Code - Day 22 : Binary Search Tress" />
     <MESSAGE value="30 Days of Code - Day 23 : BST - Level Order Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code - Day 23 : BST - Level Order Traversal" />
+    <MESSAGE value="30 Days of Code - Day 24 : More Linked Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code - Day 24 : More Linked Lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -593,6 +614,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,6 +664,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -663,6 +686,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -684,6 +708,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -825,6 +850,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -859,6 +885,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Days of Code/RunningTimeAndComplexity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
